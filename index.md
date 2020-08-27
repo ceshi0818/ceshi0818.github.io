@@ -6,7 +6,7 @@ sitemap:
   priority: 0.9
 ---
 
-<img src="{{ '/assets/img/pudhina.jpg' | prepend: site.baseurl }}" id="about-img">
+<img src="{{ '/assets/img/index.jpg' | prepend: site.baseurl }}" id="about-img">
 
 <div id="describe-text">
 	<p>终是庄周梦了蝶，你是恩赐也是劫</p>
